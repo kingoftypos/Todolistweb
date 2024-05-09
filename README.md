@@ -1,4 +1,4 @@
-## Topics
-
-![Topic: React](https://img.shields.io/badge/React-blue)
-![Topic: MERN](https://img.shields.io/badge/MERN-green)
+#TODOLIST
+- mern is used to made this website
+- it facilitates to perform CRUD operation on the todos
+- zod is used to verify inputs
